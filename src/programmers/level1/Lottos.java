@@ -1,4 +1,4 @@
-package programmers.leve1;
+package programmers.level1;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
@@ -34,7 +34,6 @@ public class Lottos {
 		
 		int[] answer = {winCnt, winCnt+zeroSize};
 		System.out.println(answer);
-
 	}
 	
 	public int getPrizeNum(int size) {
