@@ -6,7 +6,7 @@ package programmers.level1;
  * @author tmdgh
  *
  */
-public class PhoneNumberEncpryt {
+public class PhoneNumberEncrypt {
 
 	public static void main(String[] args) {
 
