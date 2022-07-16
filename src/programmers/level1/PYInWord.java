@@ -1,5 +1,11 @@
 package programmers.level1;
 
+/**
+ * 문자열 내 p와 y의 개수
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=java
+ * @author ksh
+ *
+ */
 public class PYInWord {
 
 	public static void main(String[] args) {
